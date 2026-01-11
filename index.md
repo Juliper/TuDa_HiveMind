@@ -8,6 +8,7 @@ title: Willkommen bei Hive Mind (DRAFT)
 ## Mitwirken
 
 DAS IST EIN TEST
+Testing Obsidian integration
 
 
 Du möchtest beitragen? Klone das [GitHub Repository](https://github.com/jupiterbak/TuDa_CS_BA_HiveMind), bearbeite die Notizen mit [Obsidian](https://obsidian.md) und erstelle einen Pull Request. Schau dir die [[example|Beispiel Notiz]] an, um das Format zu verstehen.
