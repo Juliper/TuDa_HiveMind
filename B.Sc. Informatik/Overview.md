@@ -13,7 +13,7 @@ Willkommen zur Übersicht des Bachelor-Studiengangs Informatik an der TU Darmsta
 > - [[Funktionale und objektorientierte Programmierkonzepte|Funktionale und objektorientierte Programmierkonzepte]]
 > - [[Digitaltechnik|Digitaltechnik]]
 > - [[Mathematik I|Mathematik I]]
-> - [[Automaten, formale Sprachen und Entscheidbarkeit|Automaten, formale Sprachen und Entscheidbarkeit]]
+> - [[Automaten, formale Sprachen und Entscheidbarkeit|AfE]]
 >
 > ### 2. Semester
 > - [[Algorithmen und Datenstrukturen|Algorithmen und Datenstrukturen]]
@@ -50,7 +50,7 @@ Willkommen zur Übersicht des Bachelor-Studiengangs Informatik an der TU Darmsta
 > - [[Parallele Programmierung|Parallele Programmierung]]
 >
 > ### Theorie
-> - [[Automaten, formale Sprachen und Entscheidbarkeit|Automaten, formale Sprachen und Entscheidbarkeit]]
+> - [[Automaten, formale Sprachen und Entscheidbarkeit|AfE]]
 > - [[Aussagen- und Prädikatenlogik|Aussagen- und Prädikatenlogik]]
 > - [[Modellierung, Spezifikation und Semantik|Modellierung, Spezifikation und Semantik]]
 > - [[Probabilistische Methoden der Informatik|Probabilistische Methoden der Informatik]]
