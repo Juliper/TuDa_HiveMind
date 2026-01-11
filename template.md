@@ -4,7 +4,7 @@ description: Vorlage und Syntax-Referenz für Hive Mind Notizen
 aliases:
   - Vorlage
   - Template
-draft: false
+draft: true
 tags:
 ---
 

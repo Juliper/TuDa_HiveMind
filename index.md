@@ -11,7 +11,7 @@ DAS IST EIN TEST
 Testing Obsidian integration
 
 
-Du möchtest beitragen? Klone das [GitHub Repository](https://github.com/jupiterbak/TuDa_CS_BA_HiveMind), bearbeite die Notizen mit [Obsidian](https://obsidian.md) und erstelle einen Pull Request. Schau dir die [[example|Beispiel Notiz]] an, um das Format zu verstehen.
+Du möchtest beitragen? Klone das [GitHub Repository](https://github.com/jupiterbak/TuDa_CS_BA_HiveMind), bearbeite die Notizen mit [Obsidian](https://obsidian.md) und erstelle einen Pull Request. Schau dir die [[template|Beispiel Notiz]] an, um das Format zu verstehen.
 
 Wenn unsicher mit umgang markiere die notiz als draft, dann wird sie auf quartz 4 nicht aufkreuzen und der github admin wird sich zeitnah um die richtige eingiedrung kümmern,
 

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4342e3dbdcb86f8a",
+        "id": "8aa70913654dc175",
         "type": "tabs",
         "children": [
           {
-            "id": "2e011b732043dd69",
+            "id": "6a06797dcb259dbe",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 242.5
   },
   "right": {
     "id": "4afd3d9d36e424b7",
@@ -180,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 363.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,10 +194,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2e011b732043dd69",
+  "active": "6a06797dcb259dbe",
   "lastOpenFiles": [
-    "example.md",
+    "Module/Automaten, formale Sprachen und Entscheidbarkeit.md",
+    "Module/index.md",
     "index.md",
-    "B.Sc. Informatik/MOCs/Semester.md"
+    "template.md",
+    "Module",
+    "B.Sc. Informatik/MOCs/Semester.md",
+    "Assets",
+    "1. Semester",
+    "B.Sc. Informatik/MOCs/Themen.md"
   ]
 }
