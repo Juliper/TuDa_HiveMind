@@ -1,7 +1,7 @@
 ---
 title: About
 ---
-
+Testing submodule sync
 # Über TUDa HiveMind
 
 TUDa HiveMind ist eine kollaborative Wissensdatenbank für Informatik-Studierende an der TU Darmstadt.
