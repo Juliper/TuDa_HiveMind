@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Guides/Programmausführung.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Programmausführung"
             }
           }
         ]
@@ -194,13 +194,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "44476a3a9ae4c8d5",
+  "active": "6a06797dcb259dbe",
   "lastOpenFiles": [
-    "README.md",
+    "Guides/CMake.md",
+    "Guides/Git Gud.md",
+    "Guides/index.md",
+    "Guides/Programmausführung.md",
+    "note_template.md",
     "index.md",
+    "1. Semester/Automaten, formale Sprachen und Entscheidbarkeit.md",
+    "1. Semester/Funktionale und objektorientierte Programmierkonzepte.md",
+    "1. Semester/Digitaltechnik.md",
+    "README.md",
     "README.md.tmp.135537.1768509409364",
     "index.md.tmp.135537.1768508978190",
-    "note_template.md",
     "[[README]].md",
     "B.Sc. Informatik/MOCs/Themen.md",
     "B.Sc. Informatik/MOCs/Semester.md",
@@ -217,12 +224,6 @@
     "2. Semester/Mathematik II.md",
     "2. Semester/Aussagen- und Prädikatenlogik.md",
     "2. Semester/Algorithmen und Datenstrukturen.md",
-    "1. Semester/Mathematik I.md",
-    "1. Semester/Funktionale und objektorientierte Programmierkonzepte.md",
-    "1. Semester/Digitaltechnik.md",
-    "1. Semester/Automaten, formale Sprachen und Entscheidbarkeit.md",
-    "1. Semester/Digitaltechnik - Klausur.md",
-    "1. Semester/Digitaltechnik - Übungen.md",
     "5. Semester",
     "4. Semester",
     "3. Semester",
