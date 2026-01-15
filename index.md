@@ -1,27 +1,23 @@
 ---
-title: Willkommen bei Hive Mind (DRAFT)
+title: Willkommen bei Hive Mind
 ---
 
-> [!info] Was ist Hive Mind?
-> Eine kollaborative Wissenssammlung für Studierende der TU Darmstadt – von Studierenden, für Studierende. Das Projekt lebt von der Gemeinschaft: Jeder kann über GitHub Inhalte beitragen und erweitern.
+Hive Mind dient als zentrale Wissensdatenbank für unsere Vorlesungsnotizen. 
 
-## Mitwirken
+Das Ziel ist es, das kollektive Wissen unseres Studiengangs an einem Ort zu bündeln und für alle zugänglich zu machen.
 
-DAS IST EIN TEST
-Testing Obsidian integration
+> [!question] Wie kann ich mitmachen?
+>Für mehr Informationen über dieses Projekt und wie du selbst Inhalte erstellen kannst, schau doch mal [hier](README) vorbei.
+
+## Wie, Wo, Was?
+
+Um die vorhandenen Notizen zu erkunden benutze entweder die Navigationsleiste am linken Rand oder den Graphview in der oberen rechten Ecke.
+
+## Warum Obsidian?
+
+Obsidian ermöglicht es, Notizen miteinander zu **verknüpfen** statt sie nur in Ordnern abzulegen. Durch die **Graph View** siehst du auf einen Blick, wie Konzepte zusammenhängen - über Modulgrenzen hinweg.
+
+> [!tip] Atomic Notes
+> Wir nutzen das Prinzip der *Atomic Notes*: Jede Notiz behandelt **ein** Konzept. Das hilft dir, das größere Bild zu sehen. Du lernst nicht isoliert für ein Modul, sondern erkennst Verbindungen.
 
 
-Du möchtest beitragen? Klone das [GitHub Repository](https://github.com/jupiterbak/TuDa_CS_BA_HiveMind), bearbeite die Notizen mit [Obsidian](https://obsidian.md) und erstelle einen Pull Request. Schau dir die [[template|Beispiel Notiz]] an, um das Format zu verstehen.
-
-Wenn unsicher mit umgang markiere die notiz als draft, dann wird sie auf quartz 4 nicht aufkreuzen und der github admin wird sich zeitnah um die richtige eingiedrung kümmern,
-
-> [!tip] Was du beitragen kannst
-> - Vorlesungsnotizen und Zusammenfassungen
-> - Neue Fächer oder Studiengänge
-> - Korrekturen und Verbesserungen
-
-Fragen oder Ideen? Erstelle ein [Issue auf GitHub](https://github.com/jupiterbak/TuDa_CS_BA_HiveMind/issues).
-
----
-
-*Powered by [Quartz](https://quartz.jzhao.xyz) & [Obsidian](https://obsidian.md)*

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "About.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "About"
+              "title": "index"
             }
           }
         ]
@@ -196,6 +196,12 @@
   },
   "active": "6a06797dcb259dbe",
   "lastOpenFiles": [
+    "README.md",
+    "index.md",
+    "README.md.tmp.135537.1768509409364",
+    "index.md.tmp.135537.1768508978190",
+    "note_template.md",
+    "[[README]].md",
     "B.Sc. Informatik/MOCs/Themen.md",
     "B.Sc. Informatik/MOCs/Semester.md",
     "5. Semester/Parallele Programmierung.md",
@@ -217,11 +223,6 @@
     "1. Semester/Automaten, formale Sprachen und Entscheidbarkeit.md",
     "1. Semester/Digitaltechnik - Klausur.md",
     "1. Semester/Digitaltechnik - Übungen.md",
-    "1. Semester/Mathematik I - Übungen.md",
-    "1. Semester/Mathematik I - Klausur.md",
-    "1. Semester/index.md",
-    "1. Semester/Funktionale und objektorientierte Programmierkonzepte - Übungen.md",
-    "1. Semester/Funktionale und objektorientierte Programmierkonzepte - Klausur.md",
     "5. Semester",
     "4. Semester",
     "3. Semester",
