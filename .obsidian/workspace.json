@@ -11,14 +11,15 @@
             "id": "6a06797dcb259dbe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Guides/Programmausführung.md",
-                "mode": "source",
-                "source": true
+                "aFile": ".gitignore",
+                "bFile": ".gitignore",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Programmausführung"
+              "icon": "diff",
+              "title": "Diff: .gitignore  (Index)"
             }
           }
         ]
@@ -44,7 +45,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Dateiexplorer"
+              "title": "Files"
             }
           },
           {
@@ -180,32 +181,37 @@
       }
     ],
     "direction": "horizontal",
-    "width": 641.5
+    "width": 404.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Neue Base erstellen": false,
-      "switcher:Schnellauswahl öffnen": false,
-      "graph:Graph-Ansicht öffnen": false,
-      "canvas:Neuen Canvas erstellen": false,
-      "daily-notes:Heutige Notiz öffnen": false,
-      "templates:Vorlage einfügen": false,
-      "command-palette:Befehlspalette öffnen": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false
     }
   },
   "active": "6a06797dcb259dbe",
   "lastOpenFiles": [
-    "Guides/CMake.md",
     "Guides/Git Gud.md",
-    "Guides/index.md",
-    "Guides/Programmausführung.md",
+    "Guides/Programmausführung in C++.md",
+    "Guides/CMake.md",
+    "README.md",
     "note_template.md",
+    "Notizen/Hardware/Flip-Flop.md",
+    "Notizen/Hardware/CPU-Architektur.md",
+    "Notizen/Algorithmen/Sortieralgorithmen.md",
+    "Notizen/Algorithmen/Komplexitätsanalyse.md",
+    "Notizen/Algorithmen/Graphenalgorithmen.md",
+    "Guides/index.md",
     "index.md",
     "1. Semester/Automaten, formale Sprachen und Entscheidbarkeit.md",
     "1. Semester/Funktionale und objektorientierte Programmierkonzepte.md",
     "1. Semester/Digitaltechnik.md",
-    "README.md",
     "README.md.tmp.135537.1768509409364",
     "index.md.tmp.135537.1768508978190",
     "[[README]].md",
@@ -219,11 +225,6 @@
     "3. Semester/Software Engineering.md",
     "3. Semester/Probabilistische Methoden der Informatik.md",
     "3. Semester/Modellierung, Spezifikation und Semantik.md",
-    "3. Semester/Computersystemsicherheit.md",
-    "2. Semester/Rechnerorganisation.md",
-    "2. Semester/Mathematik II.md",
-    "2. Semester/Aussagen- und Prädikatenlogik.md",
-    "2. Semester/Algorithmen und Datenstrukturen.md",
     "5. Semester",
     "4. Semester",
     "3. Semester",
