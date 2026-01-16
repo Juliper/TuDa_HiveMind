@@ -1,5 +1,4 @@
 ---
-title: Programmausführung
 aliases:
 draft: false
 tags:
