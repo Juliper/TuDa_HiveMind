@@ -6,11 +6,10 @@ tags:
   - guide
 ---
 
-## Tutorial vom Bachelorpraktikum:
 
-**1.**     **---------- CMake --------------**
+**1.**     **Zweck von CMake und grundlegende Begriffe**
 
-CMake dient dazu, automatisiert Build-Dateien zu generieren, die von Build-Systemen wie Make verwendet werden können. Dazu werden sogenannte **Targets** verwendet. Targets lassen sich unterteilen in **Libraries** (= Bibliotheken, bei uns z.B. _relearn_lib_, _relearn_gpu_ und _range-v3_) und **Executables** (bei uns z.B. _relearn_, _relearn_tests_ und _relearn_benchmarks_). Jedes Target wird mit mehreren Quelldateien assoziiert. Executables lassen sich nach dem Kompilieren ausführen (wer hätte es gedacht, Details siehe unten). Libraries lassen sich nicht ausführen. Sie können aber mittels _target_link_libraries_ (siehe unten) mit Executables oder anderen Libraries verknüpft werden, damit diese anderen Targets auf die Quelldateien in der Library zugreifen können.
+CMake dient dazu, in C++ automatisiert Build-Dateien zu generieren, die von Build-Systemen wie Make verwendet werden können. Dazu werden sogenannte **Targets** verwendet. Targets lassen sich unterteilen in **Libraries** (= Bibliotheken, bei uns z.B. _relearn_lib_, _relearn_gpu_ und _range-v3_) und **Executables** (bei uns z.B. _relearn_, _relearn_tests_ und _relearn_benchmarks_). Jedes Target wird mit mehreren Quelldateien assoziiert. Executables lassen sich nach dem Kompilieren ausführen (wer hätte es gedacht, Details siehe unten). Libraries lassen sich nicht ausführen. Sie können aber mittels _target_link_libraries_ (siehe unten) mit Executables oder anderen Libraries verknüpft werden, damit diese anderen Targets auf die Quelldateien in der Library zugreifen können.
 
 
 **2.**     **Einige relevante CMake-Befehle:**
@@ -26,7 +25,7 @@ CMake dient dazu, automatisiert Build-Dateien zu generieren, die von Build-Syste
 **target_include_directories(my_target PUBLIC dir):** bewirkt, dass alle Dateien, die mit _my_target_ assoziiert sind, als zusätzlichen Startpunkt für relative Suchpfade _dir_ wählen
 
 
-**3.**     **Konkretes Beispiel:** (Hinweis: Dieser Abschnitt war beim Bachelorpraktikum noch nicht dabei)
+**3.**     **Konkretes Beispiel:** 
 
 **Aufgabe:** Wie kann ich beim Linken mit CMake sicherstellen, dass ich in einer Datei namens e.cc auf eine Methode m in einer Datei d.cc (im gleichen Projekt) zugreifen kann?
 

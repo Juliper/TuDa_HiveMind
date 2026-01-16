@@ -9,8 +9,11 @@ tags:
 
 ### Basics 
 
-Das **Arbeitsverzeichnis** ist der Ordner, in dem das Gitprojekt auf dem eigenen Computer gespeichert ist. Es beinhaltet die Dateien des aktuell ausgecheckten Branches sowie einen versteckten Unterordner .git mit allen Metadaten (siehe Abschnitt 2). Der Inhalt dieses Unterordners ist das **lokale Repository**. Das **Remote-Repository** ist die Version deines Projekts, die auf einem anderen Server (z.B. GitHub) gespeichert ist und mit dem lokalen Repository synchronisiert werden kann mittels Remote-Tracking-Branches (siehe ebenfalls Abschnitt 2). _Analogie:_ Arbeitsverzeichnis ≙ Schreibtisch, Branch ≙ Ordner, den man aus dem Archiv (≙ dem lokalen Repository) holt und auf den Schreibtisch legt zum Arbeiten 
+Das **Arbeitsverzeichnis** ist der Ordner, in dem das Gitprojekt auf dem eigenen Computer gespeichert ist. Es beinhaltet die Dateien des aktuell ausgecheckten Branches sowie einen versteckten Unterordner .git mit allen Metadaten (siehe Abschnitt 2). Der Inhalt dieses Unterordners ist das **lokale Repository**. Das **Remote-Repository** ist die Version deines Projekts, die auf einem anderen Server (z.B. GitHub) gespeichert ist und mit dem lokalen Repository synchronisiert werden kann mittels Remote-Tracking-Branches (siehe ebenfalls Abschnitt 2). 
+
+_Analogie:_ Arbeitsverzeichnis ≙ Schreibtisch, Branch ≙ Ordner, den man aus dem Archiv (≙ dem lokalen Repository) holt und auf den Schreibtisch legt zum Arbeiten 
 ### Einige wichtige Komponenten des lokalen Repos
+
 - _config_: Konfigurationsdatei, die z.B. Benutzername/Email, Remote-URLs für die Branches, u.v.m. enthält
 - _refs/remotes/_: enthält Referenzen für die **Remote-Tracking-Branches**. Das sind Abbilder der **Remote-Branches** auf Github, die mit _git fetch_ aktualisiert werden.
 - _refs/heads/_: enthält Referenzen für die **lokalen Branches**. Diese müssen explizit mit dem zugehörigen Remote-Tracking-Branch synchronisiert werden mit _git merge_. (_git push_ ist einfach eine Kombination aus _git fetch_ und _git merge_.)
